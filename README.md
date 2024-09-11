@@ -39,3 +39,25 @@
 ### Blockchain
 - **Network:** Etherlink
 - **Contract Compilation & Deployment:** Brownie
+
+## Architecture Diagram
+
+![Architecture Diagram](./images/arch_t.png)
+
+## Screenshots
+
+### Home Page
+![Home Page](/images/home_t.png)
+
+### File Extraction
+![File Extraction](./images/extract_t.png)
+
+### Data Analysis
+![Data Analysis](./images/analysis_t.png)
+
+### Certification
+![Certification](./images/cert_t.png)
+
+### List of Certifications
+![List of Certifications](./images/certs_t.png)
+
