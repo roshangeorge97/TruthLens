@@ -46,9 +46,6 @@ const Nft = () => {
               {certificates?.length > 0 ? (
                 certificates?.map((cert, index) => (
                   <div key={index} className="nft-card">
-                    <div className="card-top">
-                      <img src={POLY} alt="Polygon logo" />
-                    </div>
                     <div className="certi-container">
                       <img
                         src={`${cert.uri.image}`}
@@ -77,11 +74,14 @@ const Nft = () => {
                     <div className="card-name">
                       {cert.uri.name || "Certificate"}
                     </div>
-                     <div className="video-title">
-                     {cert.uri.description || "Title"}
+                    <div className="video-title">
+                      {cert.uri.description || "Title"}
                     </div>
-                    <a className="view-poly-btn" href={cert.polygon_url}>
-                      view on polygonscan
+                    <a
+                      className="view-poly-btn"
+                      href={cert.polygon_url.replace(/\x1b\[0;m/g, '')}
+                    >
+                      view on etherlink explorer
                     </a>
                   </div>
                 ))

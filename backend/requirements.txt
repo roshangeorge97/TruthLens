@@ -17,3 +17,5 @@ pytube
 starlette
 python-dotenv~=0.16.0
 web3
+yt-dlp
+uvicorn
