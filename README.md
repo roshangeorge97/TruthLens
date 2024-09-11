@@ -23,3 +23,19 @@
 
 4. [Transaction 4](https://testnet.explorer.etherlink.com/tx/0xb0ea7ee460d26a5712227e8229d5bcd6e9d61329a7fbe743d93e78fb9e6ab201)
 
+## Tech Stack
+
+### Frontend
+- **Framework:** ReactJS
+
+### Backend
+- **Language:** Python
+
+### Machine Learning
+- **Models:**
+  - VGG16
+  - ResNet
+
+### Blockchain
+- **Network:** Etherlink
+- **Contract Compilation & Deployment:** Brownie
