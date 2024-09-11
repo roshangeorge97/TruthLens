@@ -5,6 +5,8 @@
 ## Live Demo:
 **Truth Lens:**: https://truth-lens-seven.vercel.app/
 
+**Test deepfake video**: https://www.youtube.com/shorts/vsZZ_LiHGfo
+
 ## Block Explorer:
 
 1. **Smart Contract Address**: [0xE20ea5f5a93C42E9d357aE0b6A70E0cCA0e6f88E](https://testnet.explorer.etherlink.com/address/0xE20ea5f5a93C42E9d357aE0b6A70E0cCA0e6f88E)
