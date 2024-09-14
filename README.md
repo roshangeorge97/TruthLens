@@ -8,11 +8,7 @@
 
 **Frontend:** https://truth-lens-seven.vercel.app/
 
-**Backend**:  
-On your `C:\Users\<user>`: <br>
-`pip install brownie`  
-`docker pull roshangeorge97/backend:latest`  
-`docker run -p 8000:8000 roshangeorge97/backend`
+**Backend**: Unable to deploy due resource unavailability for AI task.
 
 **Test deepfake video**: https://www.youtube.com/shorts/vsZZ_LiHGfo
 
