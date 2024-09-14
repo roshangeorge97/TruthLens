@@ -3,7 +3,14 @@
 **TruthLens** is a decentralized platform for media authenticity certification using blockchain. Users can analyze media files and mint NFTs as certificates on the blockchain.
 
 ## Live Demo:
-**Truth Lens:**: https://truth-lens-seven.vercel.app/
+
+**Note**: The Backend has been deployed on Docker Hub, so feel free to take a pull!
+
+**Frontend:** https://truth-lens-seven.vercel.app/
+
+**Backend**: <br>
+docker pull roshangeorge97/backend:latest<br>
+docker run -p 8000:8000 roshangeorge97/backend                     
 
 **Test deepfake video**: https://www.youtube.com/shorts/vsZZ_LiHGfo
 
