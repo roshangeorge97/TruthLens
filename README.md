@@ -22,7 +22,7 @@
    `npm run dev`<br>
 
 3. `cd backend`<br>
-   `pip install requirements.txt`<br>
+   `pip install -r requirements.txt`<br>
    `python main.py`<br>
 
 ## Block Explorer:
