@@ -30,6 +30,9 @@
    - Add your private key variable in .env<br>
 
 5. Run the python code <br>
+=======
+   `pip install -r requirements.txt`<br>
+>>>>>>> 0790a098028adaa708495bab11fcbb900910c2b5
    `python main.py`<br>
 
 
