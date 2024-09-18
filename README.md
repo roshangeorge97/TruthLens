@@ -22,17 +22,13 @@
    `npm run dev`<br>
 
 3. `cd backend`<br>
-<<<<<<< HEAD
-   `pip install requirements.txt`<br>
+   `pip install -r requirements.txt`<br>
 
 4. Go to backend/blockchain/brown <br>
    - Rename .env.sample to .env <br>
    - Add your private key variable in .env<br>
 
 5. Run the python code <br>
-=======
-   `pip install -r requirements.txt`<br>
->>>>>>> 0790a098028adaa708495bab11fcbb900910c2b5
    `python main.py`<br>
 
 
