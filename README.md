@@ -23,7 +23,14 @@
 
 3. `cd backend`<br>
    `pip install requirements.txt`<br>
+
+4. Go to backend/blockchain/brown <br>
+   - Rename .env.sample to .env <br>
+   - Add your private key variable in .env<br>
+
+5. Run the python code <br>
    `python main.py`<br>
+
 
 ## Block Explorer:
 
