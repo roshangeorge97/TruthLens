@@ -22,6 +22,7 @@
    `npm run dev`<br>
 
 3. `cd backend`<br>
+<<<<<<< HEAD
    `pip install requirements.txt`<br>
 
 4. Go to backend/blockchain/brown <br>
