@@ -99,7 +99,12 @@ https://youtu.be/FxrX2hmo0dc?feature=shared
    - Rename .env.sample to .env <br>
    - Add your private key variable in .env<br>
 
-5. Run the python code <br>
+5. In certificate.py
+   - ![image](https://github.com/user-attachments/assets/f6955cef-130d-4516-939e-f148cd8200de)
+   - Change it to <i>your local path<i>
+
+
+7. Run the python code <br>
    `python main.py`<br>
 
 
