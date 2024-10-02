@@ -56,6 +56,10 @@
 ### List of Certifications
 ![List of Certifications](./images/certs_t.png)
 
+## Video Demo:
+
+https://youtu.be/FxrX2hmo0dc?feature=shared
+
 ## Team Details:
 
 ### Team Name: Team U_One
