@@ -213,8 +213,8 @@ def html_parser(real_percentage, fake_percentage, file_hash, video_id, issued_fo
 """
 
 def html_to_image(html_string, output_file):
-    hti = Html2Image(output_path='C:/Users/ROSHAN GEORGE/Downloads/UnFake-HackonBlock-main/UnFake-HackonBlock-main/backend/certificates', browser_executable = 'C:/Users/ROSHAN GEORGE/Downloads/GoogleChromePortable/GoogleChromePortable.exe')
-    hti.output_path = 'C:/Users/ROSHAN GEORGE/Downloads/UnFake-HackonBlock-main/UnFake-HackonBlock-main/backend/certificates'
+    hti = Html2Image(output_path='C:/Users/ROSHAN GEORGE/TruthLens/backend/certificates', browser_executable = 'C:/Users/ROSHAN GEORGE/Downloads/GoogleChromePortable/GoogleChromePortable.exe')
+    hti.output_path = 'C:/Users/ROSHAN GEORGE/TruthLens/backend/certificates'
     hti.screenshot(html_str=html_string, save_as=output_file, size=(1500, 830))
     print("done")
 
